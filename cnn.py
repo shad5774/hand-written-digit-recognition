@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1zGbKwfNexbPEndTmv-B5Hfmqeudysmuq
 """
 
-cd Desktop
+#cd Desktop
 
-ls
+#ls
 
 # coding: utf-8
 
